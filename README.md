@@ -38,15 +38,15 @@ Morning Routine Master is a mobile application designed to help you build and ma
 
 ### Installation  
 1. Clone the repository:  
-   ```bash  
-   git clone https://github.com/divmkw/morning_routine_master.git  
-   cd morning_routine_master  
+     ```bash  
+     git clone https://github.com/divmkw/morning_routine_master.git  
+     cd morning_routine_master  
 
 2. Install dependencies:
-   ```bash
-   flutter pub get
+     ```bash
+     flutter pub get   
 
 3. Build & run:
-  ```bash
-  flutter run
+     ```bash
+     flutter run
  
