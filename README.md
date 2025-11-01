@@ -43,9 +43,9 @@ Morning Routine Master is a mobile application designed to help you build and ma
    cd morning_routine_master  
 
 2. Install dependencies:
-  ```bash
-  flutter pub get
-  
+   ```bash
+   flutter pub get
+
 3. Build & run:
   ```bash
   flutter run
