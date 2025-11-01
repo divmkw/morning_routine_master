@@ -1,6 +1,3 @@
-# Morning-Routine-Master-
-Help users build consistent morning habits by tracking routines, streaks, and progress — fully offline, lightweight, and gamified for motivation.
-
 # Morning Routine Master  
 Help users build consistent morning habits by tracking routines, streaks, and progress — fully offline, lightweight, and gamified for motivation.
 
@@ -44,3 +41,12 @@ Morning Routine Master is a mobile application designed to help you build and ma
    ```bash  
    git clone https://github.com/divmkw/morning_routine_master.git  
    cd morning_routine_master  
+
+2. Install dependencies:
+  ```bash
+  flutter pub get
+  
+3. Build & run:
+  ```bash
+  flutter run
+ 
